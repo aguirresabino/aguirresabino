@@ -6,8 +6,6 @@ I'm Aguirre Sabino, I'm a software engineer 👨‍💻 who is passionate about 
 - 🔭 I’m currently working on Adireto
 - 🌱 I’m currently learning full cycle development model
 
-> Skinny Models, Skinny Controllers, Fat Services
-
 ## Programming language, frameworks and tools
 
 ### Know/Using
