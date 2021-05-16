@@ -44,10 +44,6 @@ I'm Aguirre Sabino, I'm a software engineer 👨‍💻 who is passionate about 
 
 ## Learning
 
-[<img src="https://i.imgur.com/pFVIuQ9.png" alt="Go" width="24">](https://golang.org/)
 [<img src="https://i.imgur.com/9Ft20Mq.png" alt="Kubernets" width="24">](https://kubernetes.io/)
-[<img src="https://i.imgur.com/FHSYgif.png" alt="PHP" width="24">](https://www.php.net/)
-[<img src="https://i.imgur.com/RpOq7fq.png" alt="ReactJS" width="24">](https://reactjs.org/)
-[<img src="https://i.imgur.com/O6yeX8t.png" alt="Prometheus" width="24">](https://prometheus.io/)
-[<img src="https://i.imgur.com/IWouopb.png" alt="Elastic Stack" width="24">](https://www.elastic.co/elastic-stack)
+
 
