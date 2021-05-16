@@ -37,7 +37,6 @@ I'm Aguirre Sabino, I'm a software engineer 👨‍💻 who is passionate about 
 [<img src="https://i.imgur.com/K6RsiKi.png" alt="Redis" width="24">](https://redis.io/)
 [<img src="https://i.imgur.com/crF7nXv.png" alt="Spring" width="24">](https://spring.io/)
 [<img src="https://i.imgur.com/3Q43tkP.png" alt="Visual Studio Code" width="24">](https://code.visualstudio.com/)
-[<img src="https://i.imgur.com/Msn69QK.png" alt="Webstorm" width="24">](https://www.jetbrains.com/webstorm/)
 [<img src="https://i.imgur.com/dQOij9i.png" alt="Yarn" width="24">](https://yarnpkg.com/)
 [<img src="https://i.imgur.com/YCj9DaZ.png" alt="RabbitMQ" width="24">](https://www.rabbitmq.com/)
 [<img src="https://i.imgur.com/QzjZWpd.png" alt="Heroku" width="24">](https://www.heroku.com/)
