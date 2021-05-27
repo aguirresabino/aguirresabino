@@ -1,40 +1,18 @@
-[![Twitter Badge](https://img.shields.io/badge/-@aguirresabino-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aguirresabino)](https://twitter.com/aguirresabino) [![Linkedin Badge](https://img.shields.io/badge/-aguirresabino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguirresabino/)](https://www.linkedin.com/in/aguirresabino/)
+## 👨‍💻  Aguirre Sabino - @aguirresabino
 
-## Hi 👋, 
-I'm Aguirre Sabino, I'm a software engineer 👨‍💻 who is passionate about open source.
+### Hi, there! 👋 Welcome to my profile 😄 
 
-- 🔭 I’m currently working on Adireto
-- 🌱 I’m currently learning full cycle development model
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguirresabino/)](https://www.linkedin.com/in/aguirresabino/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aguirresabino)](https://github.com/aguirresabino)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguirresabino187@gmail.com)](mailto:aguirresabino187@gmail.com)
 
-## Programming language, frameworks and tools
-
-
-[<img src="https://i.imgur.com/WNuhhQb.png" alt="JS" width="24">]()
-[<img src="https://i.imgur.com/xaEzNyf.png" alt="Typescript" width="24">](https://www.typescriptlang.org/)
-[<img src="https://i.imgur.com/jS1bn1e.png" alt="Angular" width="24">](https://angular.io/)
-[<img src="https://i.imgur.com/SMtbhxU.png" alt="Bash" width="24">]() 
-[<img src="https://i.imgur.com/BxcFUlR.png" alt="Docker" width="24">](https://hub.docker.com/u/aguirresabino) 
-[<img src="https://i.imgur.com/J6yfdyQ.png" alt="Git" width="24">](https://git-scm.com/)
-[<img src="https://i.imgur.com/2GzTX7r.png" alt="GitHub" width="24">](https://github.com/aguirresabino)
-[<img src="https://i.imgur.com/9gMn8DY.png" alt="GitLab" width="24">](https://gitlab.com/aguirresabino)
-[<img src="https://i.imgur.com/FZdzXca.png" alt="GraphQL" width="24">](https://graphql.org/)
-[<img src="https://i.imgur.com/ivdERuh.png" alt="Intellij IDEA" width="24">](https://www.jetbrains.com/idea/)
-[<img src="https://i.imgur.com/7kdJBwP.png" alt="Java" width="24">](https://www.java.com/)
-[<img src="https://i.imgur.com/TdyXb4e.png" alt="Jest" width="24">](https://jestjs.io/)
-[<img src="https://i.imgur.com/H1ULAiZ.png" alt="Linux" width="24">]()
-[<img src="https://i.imgur.com/JsppkaK.png" alt="MongoDB" width="24">](https://www.mongodb.com/)
-[<img src="https://i.imgur.com/jSXcDVP.png" alt="NestJS" width="24">](https://nestjs.com/)
-[<img src="https://i.imgur.com/g2gamql.png" alt="NodeJS" width="24">](https://nodejs.org/)
-[<img src="https://i.imgur.com/a0Ui05W.png" alt="Oh My Zsh" width="24">](https://ohmyz.sh/)
-[<img src="https://i.imgur.com/lDTyjLG.png" alt="PostgresSQL" width="24">](https://www.postgresql.org/)
-[<img src="https://i.imgur.com/K6RsiKi.png" alt="Redis" width="24">](https://redis.io/)
-[<img src="https://i.imgur.com/crF7nXv.png" alt="Spring" width="24">](https://spring.io/)
-[<img src="https://i.imgur.com/3Q43tkP.png" alt="Visual Studio Code" width="24">](https://code.visualstudio.com/)
-[<img src="https://i.imgur.com/YCj9DaZ.png" alt="RabbitMQ" width="24">](https://www.rabbitmq.com/)
-[<img src="https://i.imgur.com/QzjZWpd.png" alt="Heroku" width="24">](https://www.heroku.com/)
-
-## Learning
-
-[<img src="https://i.imgur.com/9Ft20Mq.png" alt="Kubernets" width="24">](https://kubernetes.io/)
-
-
+### About me
+  
+- 🏢 &nbsp; I'm currently working at [Adireto](https://adireto.com/) as a Software Engineer.
+- 🔭 &nbsp; I wanna be one of the world best software engineers.
+- 💻 &nbsp; I'm passionate about learning and programming.
+- 📚 &nbsp; Learning about CI/CD, Kubernetes, Cloud and software architecture.
+<br/>
+<br/>
+   
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aguirresabino&show_icons=true&theme=dark&count_private=true)
