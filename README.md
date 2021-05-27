@@ -9,7 +9,6 @@
 ### About me
   
 - 🏢 &nbsp; I'm currently working at [Adireto](https://adireto.com/) as a Software Engineer.
-- 🔭 &nbsp; I wanna be one of the world best software engineers.
 - 💻 &nbsp; I'm passionate about learning and programming.
 - 📚 &nbsp; Learning about CI/CD, Kubernetes, Cloud and software architecture.
 <br/>
