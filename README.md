@@ -19,5 +19,5 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguirresabino&layout=compact&langs_count=20&count_private=true&theme=dark" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aguirresabino" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aguirresabino&theme=dark" />
 </div>
